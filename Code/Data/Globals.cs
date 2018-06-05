@@ -50,7 +50,7 @@ namespace L2_login
         public const string Map_Salt = "QaABcmPq$]@H+2u4NXxG";
 
         public const string Name = "L2.Net";
-        public const string Version = "June 3, 2018";
+        public const string Version = "June 4, 2018";
         public const string VersionLetter = "https://github.com/devmvalvm/L2Net";
         public const int MinDataPack = 392;
         public static string PATH = "";
